@@ -1,0 +1,32 @@
+.logo > img {
+  width: 150px;
+  margin: 10px;
+}
+.navbar {
+  display: flex;
+  justify-content: space-between;
+}
+.links1 {
+  background-color :#233142 ;
+  padding: 15px;
+  width: 70%;
+}
+.links1 > a{
+  color: white;
+  text-decoration-line: none;
+  font-size: 15px;
+}
+.link2 {
+  background-color: #f1b963; 
+  padding: 15px;
+  width: 30%;
+}
+.link2 > a {
+  color: white;
+  text-decoration-line: none;
+  font-size: 15px;
+  
+}
+.link2 >a:hover{
+ background-color: #005792;
+}
